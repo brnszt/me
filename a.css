@@ -1,0 +1,18 @@
+body { 
+  margin: 0 auto;
+  max-width: 50em;
+  font-family:"Consolas", sans-serif;
+  line-height: 1.0;
+  padding: 6em 1em;
+  color: #000;
+  background-color: #009992;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+h1, h2, strong {
+  color: #1053325;
+}
